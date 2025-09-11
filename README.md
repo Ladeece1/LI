@@ -1,5 +1,7 @@
 # LinkedIn Network Explorer — Simple (Streamlit)
 
+testing out an initial idea, feel free to use it (super slow currently)
+
 Upload your LinkedIn `connections.csv` and explore:
 - Interactive, draggable network
 - Super connectors (degree + betweenness)
