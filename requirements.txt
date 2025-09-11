@@ -1,0 +1,8 @@
+
+streamlit==1.37.1
+pandas==2.2.2
+numpy==1.26.4
+pyvis==0.3.2
+networkx==3.3
+scikit-learn==1.5.1
+python-louvain==0.16
